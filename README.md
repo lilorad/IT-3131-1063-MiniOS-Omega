@@ -32,3 +32,12 @@ Requirements:
 
 
 ## ▶️ How to Run
+
+1. Clone repository
+2. Open the project folder in Visual Studio Code.
+3. Open Windows CMD (or the Visual Studio Code terminal) in the project folder.
+4. Run the program in CMD:
+   - cd "paste file location of VS code"
+   - type python main.py
+5. Run the program in Visual Studio code temrinal
+   - type python main.py
